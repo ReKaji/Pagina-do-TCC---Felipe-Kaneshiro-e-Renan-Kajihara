@@ -10,8 +10,7 @@ A página foi desenvolvida utilizando HTML e hospedada gratuitamente via GitHub 
 
 O site pode ser acessado em:
 
-https://SEU-USUARIO.github.io/tcc-proposta/
+https://rekaji.github.io/Pagina-do-TCC---Felipe-Kaneshiro-e-Renan-Kajihara/
 
----
 
-## 📁 Estrutura do Projeto
+s
