@@ -13,4 +13,3 @@ O site pode ser acessado em:
 https://rekaji.github.io/Pagina-do-TCC---Felipe-Kaneshiro-e-Renan-Kajihara/
 
 
-s
